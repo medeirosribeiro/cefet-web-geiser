@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/medeirosribeiro/cefet-web-geiser",
   "dependencies": {
-      "express": "latest"
+    "express": "latest",
+    "hbs": "^2.7.0"
   }
 }
